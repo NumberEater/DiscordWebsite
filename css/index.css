@@ -1,0 +1,23 @@
+body {
+    font-family: GenericFont-Regular;
+    background-color: lightblue;
+}
+
+.section1 {
+    width: 70%;
+    border: 4px dotted black;
+    padding:8px;
+    font-size: 1.2em;
+    margin: 20px;
+}
+.section2 {
+    width: 70%;
+    border: 4px dotted black;
+    padding:8px;
+    font-size: 1.2em;
+    margin: 20px;
+}
+@font-face {
+    font-family: GenericFont-Regular;
+    src: url(./fonts/Montserrat/Montserrat-Regular.ttf);
+}
